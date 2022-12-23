@@ -1,0 +1,7 @@
+{
+  "name": "tab-ridee",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
